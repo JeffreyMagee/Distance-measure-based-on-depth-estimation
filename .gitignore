@@ -1,0 +1,17 @@
+# personal setting, you can add your ignore setting below
+.vscode/
+data/
+FCRN/__pycache__/
+MegaDepth/__pycache__/
+MiDaS/__pycache__/
+MiDaS/model.pt
+__pycache__
+pred.jpg
+demo.jpg
+FCRN/NYU_FCRN-checkpoint.zip
+FCRN/NYU_FCRN.ckpt*
+__pycache__/
+.idea/
+.checkpoints/
+
+# your ignorance
